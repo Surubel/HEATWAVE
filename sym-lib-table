@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name HEATWAVE-F7-rescue)(type Legacy)(uri ${KIPRJMOD}/HEATWAVE-F7-rescue.lib)(options "")(descr ""))
+  (lib (name Schottky_dual)(type Legacy)(uri ${KIPRJMOD}/BUCK/Library/Schottky_dual.lib)(options "")(descr ""))
+)
